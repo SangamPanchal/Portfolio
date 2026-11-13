@@ -1,122 +1,604 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 9 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/sngmpnchl/)
->> /Border [ 0 0 0 ] /Rect [ 245.2122 750.3887 277.7202 760.7087 ] /Subtype /Link /Type /Annot
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R ]
 >>
 endobj
 5 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/SangamPanchal)
->> /Border [ 0 0 0 ] /Rect [ 284.7378 750.3887 311.501 760.7087 ] /Subtype /Link /Type /Annot
+/Length 10038
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 783.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 18 Tf 21 TL 179.9258 0 Td (Sangam Panchal) Tj T* -179.9258 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 771.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F1 9.5 Tf 12 TL 117.9173 0 Td (Java Backend Engineer | Spring Boot, REST APIs, PostgreSQL) Tj T* -117.9173 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 760.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 8.6 Tf 11 TL 126.6035 0 Td (Phone: +91 7217363390 | Email: sangampanchal103@gmail.com) Tj T* -126.6035 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 749.7087 cm
+q
+BT 1 0 0 1 0 2.4 Tm 199.5272 0 Td 11 TL /F1 8.6 Tf .101961 .235294 .560784 rg (LinkedIn) Tj 0 0 0 rg ( | ) Tj .101961 .235294 .560784 rg (GitHub) Tj 0 0 0 rg ( | ) Tj .101961 .235294 .560784 rg (Portfolio) Tj T* -199.5272 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 730.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PROFESSIONAL SUMMARY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 729.1087 cm
+q
+.6 w
+1 J
+0 0 0 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 656.5087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60.3 Tm /F1 9.3 Tf 11.6 TL -0.041592 Tw (Java Backend Engineer with hands-on experience building RESTful APIs and payment-processing systems using Java 21,) Tj T* 0 Tw (Spring Boot, Spring Data JPA, Hibernate, and PostgreSQL. Skilled in concurrency-safe transaction design with optimistic) Tj T* (locking, Spring Security authentication and authorization, and third-party API integration \(Stripe\). Experienced deploying) Tj T* (production applications on Oracle Cloud Infrastructure \(OCI\) with Nginx reverse proxy, Neon PostgreSQL, and Vercel,) Tj T* (following 12-Factor App practices. Also built an AI agent in Python using Gemini Function Calling with deterministic) Tj T* (security guardrails.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 637.5087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (TECHNICAL SKILLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 635.9087 cm
+q
+.6 w
+1 J
+0 0 0 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 621.3087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Languages:) Tj /F1 9.3 Tf ( Java 21, Python, SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 609.7087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Backend Frameworks:) Tj /F1 9.3 Tf ( Spring Boot, Spring Framework, Spring Data JPA, Spring Security, Hibernate \(ORM\), Maven) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 598.1087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (API Development:) Tj /F1 9.3 Tf ( RESTful APIs, REST API Design, Stripe API Integration, Postman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 586.5087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Databases:) Tj /F1 9.3 Tf ( PostgreSQL, Neon Serverless PostgreSQL, SQLite, MongoDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 563.3087 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Cloud and Deployment:) Tj /F1 9.3 Tf ( Oracle Cloud Infrastructure \(OCI Compute\), AWS \(EC2, S3\), Vercel, Nginx \(Reverse Proxy\),) Tj T* (Linux \(Fedora\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 540.1087 cm
+q
+BT 1 0 0 1 0 13.9 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Architecture and Concepts:) Tj /F1 9.3 Tf ( Optimistic Locking, Event-Driven Architecture, Transaction Management, Role-Based) Tj T* (Access Control, 12-Factor App Methodology, Payment Processing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 528.5087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (AI and Agentic Systems:) Tj /F1 9.3 Tf ( Gemini Function Calling, Tool Orchestration, Deterministic Guardrails \(AST, Regex\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 516.9087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Tools:) Tj /F1 9.3 Tf ( Git, GitHub, Maven, Postman) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 497.9087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 496.3087 cm
+q
+.6 w
+1 J
+0 0 0 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 481.7087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Bachelor of Technology \(B.Tech\), Computer Science Engineering) Tj /F1 9.3 Tf ( | 2021 - 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 470.1087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (R.D. Engineering College, Ghaziabad, Uttar Pradesh, India) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 451.1087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 449.5087 cm
+q
+.6 w
+1 J
+0 0 0 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 434.5087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.6 Tf 12 TL (MeshPay Backend System | Java 21, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 424.0087 cm
+q
+.101961 .235294 .560784 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.6 Tf 10.5 TL (GitHub Repository) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 400.8087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 400.8087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Designed and built a payment routing and transaction backend in Java and Spring Boot, exposing 10 RESTful API) Tj T* (endpoints with Spring Data JPA and automated Hibernate schema management on PostgreSQL.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 377.6087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 377.6087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Implemented concurrency-safe transaction processing across payment routes using optimistic locking \(@Version\) to) Tj T* (prevent conflicting updates.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 366.0087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 366.0087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (Automated database seeding on startup with an ApplicationReadyEvent listener \(event-driven lifecycle\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 354.4087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 354.4087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (Followed the 12-Factor App methodology by moving database configuration and secrets into environment variables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 327.4087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.4 Tm /F2 9.6 Tf 12 TL (NexCart E-Commerce Platform | Java, Spring Boot 3, Spring Security, Stripe API, Neon PostgreSQL, OCI,) Tj T* (Nginx, Vercel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 316.9087 cm
+q
+.101961 .235294 .560784 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.6 Tf 10.5 TL (GitHub Repository) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 293.7087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 293.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Developed a modular e-commerce backend in Spring Boot 3 integrated with the Stripe SDK, supporting dynamic) Tj T* (multi-currency checkout and end-to-end payment lifecycle handling.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 282.1087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 282.1087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (Secured 12+ REST API endpoints with Spring Security, implementing role-based authorization and session security.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 270.5087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 270.5087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (Eliminated duplicate orders through server-side inventory validation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 247.3087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 247.3087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Deployed a decoupled production architecture: Spring Boot backend on Oracle Cloud Infrastructure \(OCI Compute\)) Tj T* (behind an Nginx reverse proxy, with Neon PostgreSQL as the database and a Vercel-hosted frontend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 232.3087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 9.6 Tf 12 TL -0.015874 Tw (AutoGov-DB: Autonomous Database Governance Copilot | Python, Gemini Function Calling, SQLite, SQL, AST) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 45.68504 221.8087 cm
+q
+.101961 .235294 .560784 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.6 Tf 10.5 TL (GitHub Repository) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 198.6087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 198.6087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Built an autonomous AI agent in Python using Gemini Function Calling to inspect infrastructure cluster metrics and) Tj T* (correlate incidents across multiple relational tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 175.4087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 175.4087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Developed a deterministic security guardrail layer using AST parsing and regex interceptors that blocks DDL/DML) Tj T* (mutations \(DROP, DELETE, UPDATE\) and semicolon injection attempts before query execution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 152.2087 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 0 14.2 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 55.68504 152.2087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.9 Tm /F1 9.3 Tf 11.6 TL (Implemented runtime schema discovery with a get_schema\(\) tool, enabling the agent to generate multi-table SQL JOIN) Tj T* (diagnostics autonomously without rigid prompting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 133.2087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (CERTIFICATIONS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 131.6087 cm
+q
+.6 w
+1 J
+0 0 0 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 117.0087 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11.6 TL /F2 9.3 Tf 0 0 0 rg (Certificate Course on Data Analytics) Tj /F1 9.3 Tf ( | ICT Academy and Capgemini \(CSR Initiative\) | December 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 105.4087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 9.3 Tf 11.6 TL (Focus: Data Analysis, Data Handling, Analytical Thinking) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0 0 0 rg
+BT
+/F1-0 8.6 Tf
+10.32 TL
+ET
+BT
+1 0 0 1 120 318.7485 Tm
+( \174 ) Tj
+T*
+ET
+0.101961 0.235294 0.560784 rg
+BT
+1 0 0 1 127.0176 318.7485 Tm
+(Live Demo) Tj
+T*
+ET
+Q
+
+endstream
 endobj
 6 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://sangampanchal.github.io/Portfolio/)
->> /Border [ 0 0 0 ] /Rect [ 318.5186 750.3887 350.0634 760.7087 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/SangamPanchal/meshpay-backend)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 424.8337 115.9384 435.3337 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/SangamPanchal/nexcart)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 317.7337 115.9384 328.2337 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/SangamPanchal/Autogov-DB)
->> /Border [ 0 0 0 ] /Rect [ 45.68504 222.6337 115.9384 233.1337 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057sngmpnchl\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 245.2122 750.3887 277.7202 760.7087 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/PageMode /UseNone /Pages 13 0 R /Type /Catalog
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057SangamPanchal)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 284.7378 750.3887 311.501 760.7087 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/Author (Sangam Panchal) /CreationDate (D:20261106081239+00'00') /Creator (\(unspecified\)) /Keywords (Java, Spring Boot, PostgreSQL, REST API, Hibernate) /ModDate (D:20261106081239+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Java Backend Engineer Resume) /Title (Sangam Panchal - Resume) /Trapped /False
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057sangampanchal\056github\056io\057Portfolio\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 318.5186 750.3887 350.0634 760.7087 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 10 0 R ] /Type /Pages
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057SangamPanchal\057meshpay\055backend)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 45.68504 424.8337 115.9384 435.3337 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3321
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057SangamPanchal\057nexcart)
 >>
-stream
-Gau`V>BALh(4Q"]30/:h1m5B3BeWqM%#tWBZaEe4D7-3mk_[fkFLR'onrM\nech0:>IN-@0*t0?kPh#n^:",%f\i-Hr>=J8K3tf&E*Vlji,l%1G]T6u(Z-m9r0NtWeJiVt%eL!CX)AOFi5ZYk05P]6KGR]239<ffi5P3O[0t8F^X.,ql^[t$)S4`*f\cq[=:l=3(`%f#>7t4npEt4cK%BIqVV]:YM_?I.kW@+jiEG&2&I4'ej2Moq#KQ(56`8he2>KX`"KmR\%9W[0(/fl8i"9"HTIbaHc;bODe!105`Cr0u_5.JBY.i*j=s(HJ$*APt%BV^GecVsc[*JU4p8jkAmcI\+[[c:]pgrYShf\e_?FrA-i=VqAU!X+,`k=t+?,pj_(@(4Ocf9Z+7k]6Vl-?N-oI4(:iR$l$I5cLOVJ\hPbH[UHcN24+GMQ[4XDZAP%lth"BZqq&L;AfdXU9hK"!59`H0WcrW]m<SYBY$&L"c$Pnq/HQ%!]W(m5je'QK`>NC"LoWBe5Qof@/8bG5$8=LXk#2gX5RVKaLVsFGH/\b-ZKaj2-@C\a\_*"Z%60kh9lhBQnSY,?UL`>Hcef]$FL*Z`WqpE8"G%l;5d"AQs>ukmh"gI[mI/+&m)c93<<@S,kf!-n$hmiBF)8TM%lndjC&J4TSsl,\.uA;lrH,+/RK%OaF&]QB7PR7[!'o$[:8nr_\C3?RA/Qpp:kqi?Q$+_2,t*O`;dR$Wc.u'O_!+J^9aV$A$FY[j9WL-pa4G^7q,`J<GX<Z\Tud``+GQ(J6M.mXLu_/7l$3:BaaF+K='=;q*2W2-RZ,`!-+_>feg#>:P5*6A4'.<rce=6]jO;DQK(q$*Gp5R$K?5+M]8^Hcj3'M+$hUc."%2''1kpE!CN<p^tA&ib8BK[LknWOnpOB#j]LdGdb?1D#52Mp&G/<-mV,'pqsfPT96I;f.ros5iH3P`hBZr;8drtiuPUO9mjn`N04;VTj?lWZsXS>DITf"0Gr&bKZKDOrF2t=SE1p._3ctbf."n%)3ZJsf8Y@_.MVaYOoK"Omk?%3&;3O$HG6%umJaF<E5%.Al1j<%fiV>Fn$Dh;<C^BI)ZKaDfQF:h3A`X*>L]ZR4tkdq50aHB;\Gi&?kff/GbZgq4>'@,[(%L-Z_(nAcRVu1a0d$Ernuej.EtU&HMP@5df69f.p/J9IX/Q>Cr.dW+a`(YmVl!Rh\Vc[l[".EN-M'/mY#FW0KdPs0JUr'KFA(/V:bkkZ7.%GFUT*d&c]fSBW']#Gqrg.i*ao@Kjof]67Iu`XhN#YL>c@^69_r[Tl[Dc0$0Zm21/Hh%.Q/\9ak@"EW*6=#\+o'WC!./UOTITh3a5Y-EPqt64S]0Gci"/*'P/W51c,+N1<h4l5s8@^]dkJf!)o!T1cb!p5amAV$]"OZl@#Tq3\*Z6+e`F)U++g2VmV84:u[j%&tsrJlcZI[tKkT[<%hAj:Si'Lr>snHfXL)Y%9-"UZP>miYL(1#<_#)^'T^6!78I'#Cm^fEX-MSCu'nL!2ImtC05'=`X)m@BhV7j302umpfiu_.*G2i;8Gu[QXJVdXh5u30uSiN.H'hJ?/roTC#)N&6WFf*aZ5-l(I1Q)fWXN2d`skDHl\9\g"kgPJpN^YIr!6o%%K8"W%CJD!8i<^rg&tBKluFudU+jGj=h`bj_(?+0ankTHk_3'E,F3XQN"'h_\rD&(nC3o\V\#)ZmJgR*uOSt_@W2UZR()uE_h96HrZ%0=9oP4gbrT\!_R3@eob_@p;B#aBfbs&9Mh;*YYs_(:5="j`r+F;Zl\@&\=jBN[j\]nZ7i\Y$o[&60Kdll9)d*\4Q-=MA(_(tS6^#^l4mI&W)<pK"S6)JL*\0O;T6VhL(:Y/%<<J0_T:(c_^s34hAKZ]*QuuJ1tGF:IjF/!UjG_T\_n/Rn5Qi/@hWJ!5@6I/ob%C'Pn&RP^++Qt4qAuO=W$i1UG1\[G*?6Qm-;5aFuj/"_C8D=gK&c\HEmM?Qm`@mZ`*N*(___K2@;qn=,gL_h="R]pPqgFaD56?Mj)5LLV_I*G%LV"^>Mm171K\\i38&*^4F25n_5-6,irij$*#7o)N!<bRF5P'&bSljdj-%ClYMIG?E^HAQ[%-4pZjlL,3'F%4t>#2a9QjLLk]L"%&>(6V+Hu<HMK`9"A:#VhTU6V;5oYNJ9AbSWtf/t?UQj:n,5e@&2g!.m9#qRG#h&O/"Ca!a9pG@$iVuB`eS7Bme7:aST\H+;k6-09Z;S/Om!0P;Nj!YOR9")bbXNa#YON[H3ra-T=$&Aj%o?BchK1@6G^#dk&IK3&QhFhD7Cu4dSVrTp5-c`Y[3nDI.#"\_\Qb5S7:f`@G9-,qTj77GBc*JGW0`G$@,pt1@0O/=V10INJIRNq*d\%^$-r2-!Q0k<o,m8o4Y9R^GeHU8]$0I]O9&V>iEre1fC\\i%Xq1oY9oqRCl!)ZkRH;JX&CVJ73TnmSb@<h18eUL@59N<>huj"&f@?JE-WLi*B*enjC7?U7(8h68-"j+F`<oF+fXd+[NqBeo=mN/k=B7F';#P/"AMWBM;R[ERLqX+E.pcOJ'%6Vr8DeTn-C1"pgIXQGUT^FsNf5EDITNFSb)'pjT&D&b<N]e`;mmg]2bo-MgE0b/[SNP7L1F>?#_cP5[^5Pm)Pr>H2=.G+,tf3;m>D#9jUFPV(,gV)b'T[Tr*RD?OSZ=\pJ2D>.2jS_Kn2.?`.#oK21L7uo>_I+OflI/s56nX-3e$K;Y8peK/YHEA7[KLT4_@nBOi-"dS1d58/Vau_XEHGV5bWU(`,9\XTBKD-JQX$U-VqcCaf%QT4/`Fh8i"(a5R?U&Rqq0nQ#9rQ"/"SL"g@@@'X(BPh@4-]Ot5Rl<?^0j!+&g<Va:sMT7WpV_+oXh;q?si'jMNG<-$V.+(nFtBcLr^W+*eVk_K7jM5/AOS.O_0I^RMt;m^PRPh]i.Li9]j)bDWd:Q60/?0lc*I\[qNWh3hL`I-@B)m7c&68R5_gHqE3aG./O[!(fUk&6qOo/%2T<-;\XSo#P?K6h8&9dQM^*4W<de8RO_:5BO#HM!L:AgZ$j?C6&=g@ftDOGCoj'I7n2pQZIiVm8;]d5=#6E6g!jW>=ecm_\snsaC*TAsA6e;KXAi_p$.Q;PTHQ2;.8EjU$-m7oTCp6MG&KKKHF)p?`q\-Cpmeck_5"J[I/4@o%U8Ua.Glie75rn91ZkZSXdisMcA7TrYMFS`f:@ma)#5GmGb6"gO<i&CDqu86Q7ufJ;537af9bt4'D+#n8"kdt:(8#mcU5a:gTR6l%i$T?Q-J[]a*b%.QKF;8]Id^PrdGI^(]OTf\edd~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 45.68504 317.7337 115.9384 328.2337 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057SangamPanchal\057Autogov\055DB)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 45.68504 222.6337 115.9384 233.1337 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 127.0176 316.7485 168.117 326.7485 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057nexcartfrontend\056vercel\056app\057)
+>>
+/P 4 0 R
+>>
 endobj
 xref
-0 15
+0 17
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000511 00000 n 
-0000000694 00000 n 
-0000000888 00000 n 
-0000001088 00000 n 
-0000001280 00000 n 
-0000001475 00000 n 
-0000001729 00000 n 
-0000001799 00000 n 
-0000002154 00000 n 
-0000002215 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000470 00000 n 
+0000010561 00000 n 
+0000010668 00000 n 
+0000010775 00000 n 
+0000010887 00000 n 
+0000010908 00000 n 
+0000011123 00000 n 
+0000011322 00000 n 
+0000011538 00000 n 
+0000011760 00000 n 
+0000011971 00000 n 
+0000012188 00000 n 
 trailer
 <<
-/ID 
-[<d93926c8f1002b4b2ef79272deae7569><d93926c8f1002b4b2ef79272deae7569>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 12 0 R
-/Root 11 0 R
-/Size 15
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-5628
+12402
 %%EOF
